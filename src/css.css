@@ -3,7 +3,7 @@ div {
     max-width: 1200px;
 }
 
-p {
-    text-align: justify;
-    font-size: 20px;
+span {
+    color: green;
+    border: 1px solid blue;
 }
